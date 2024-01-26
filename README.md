@@ -12,3 +12,6 @@ repository ini hanya kebutuhan pribadi saya untuk pembelajaran bahasa pemograman
 - [x] namespace
 - [x] typedef
 - [x] artihmetic operator
+- [x] type conversion
+- [x] user input
+- [x] math related functions // reference = https://cplusplus.com/reference/cmath/
